@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/chduch67.github.io/static/css/main.4c8aab38.css",
-    "main.js": "/chduch67.github.io/static/js/main.f1f1e144.js",
-    "index.html": "/chduch67.github.io/index.html",
-    "main.4c8aab38.css.map": "/chduch67.github.io/static/css/main.4c8aab38.css.map",
-    "main.f1f1e144.js.map": "/chduch67.github.io/static/js/main.f1f1e144.js.map"
+    "main.css": "/static/css/main.4c8aab38.css",
+    "main.js": "/static/js/main.f1f1e144.js",
+    "index.html": "/index.html",
+    "main.4c8aab38.css.map": "/static/css/main.4c8aab38.css.map",
+    "main.f1f1e144.js.map": "/static/js/main.f1f1e144.js.map"
   },
   "entrypoints": [
     "static/css/main.4c8aab38.css",
