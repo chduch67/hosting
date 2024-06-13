@@ -1,0 +1,14 @@
+/* Navbar.css */
+
+.navbar.is-fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  .navbar.is-visible {
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
